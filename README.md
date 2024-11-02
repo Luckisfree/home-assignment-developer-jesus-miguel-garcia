@@ -32,13 +32,13 @@ MadBox home assigment developer solution Jesus Miguel Garcia Canales
   5 hours
 
 **-> 3. Scale foundations up**
-  2 hours
+  3 hours
 
 **-> 4. Gameplay quick iterations**
   1 hour
 
 **-> 5. Add basic weapon drop system and weapon stats**
-  1 hour
+  2 hour
 
 **-> 6. Add performance improvement systems**
   1 hour
